@@ -6,6 +6,7 @@
 * https://nodejs.org/en
 * https://code.visualstudio.com
 * https://modrinth.com/mod/cc-tweaked orr https://modrinth.com/mod/cc-restitched [ there both the same i think ]
+* open port 5757
 
 ### how to use:
 1. install the folder CCTweaked_Editor somewhere you want
