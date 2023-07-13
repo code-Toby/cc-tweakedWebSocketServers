@@ -6,6 +6,7 @@
 * https://nodejs.org/en
 * https://code.visualstudio.com
 * https://modrinth.com/mod/cc-tweaked orr https://modrinth.com/mod/cc-restitched [ there both the same i think ]
+* the client file on the CC computer just run `wget https://raw.githubusercontent.com/code-Toby/cc-tweakedWebSocketClients/main/CCTweaked_EditorClient/CloudEdit.lua`
 * an open port 5757
 
 ### how to use:
@@ -23,6 +24,7 @@
 * https://nodejs.org/en
 * https://code.visualstudio.com
 * https://modrinth.com/mod/cc-tweaked orr https://modrinth.com/mod/cc-restitched [ there both the same i think ]
+* the client file on the CC computer just run `wget https://raw.githubusercontent.com/code-Toby/cc-tweakedWebSocketClients/main/CCTweaked_backeruperClient/CloudBackup.lua`
 * an open port 5757
 
 ### how to use:
