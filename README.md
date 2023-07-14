@@ -19,7 +19,7 @@
 7. then connect to your host example <host>:<port> NOTE YOU HAVE TO PUT : BETWEEN THEM
 
 
-# CCTweaked Backuper
+# CCTweaked Backuper how to install:
 ### you will need:
 * https://nodejs.org/en
 * https://code.visualstudio.com
